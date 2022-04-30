@@ -1,0 +1,14 @@
+Solution for the case n = 7, d = 5:
+*Circles with the minimum score of 446 (up to permutations):
+[0, 1, 4, 5, 8, 2, 6]
+*Circles with the maximum score of 3051 (up to permutations):
+[1, 3, 9, 4, 5, 2, 7]
+[1, 2, 5, 4, 9, 3, 7]
+
+Solution for the case n = 8, d = 6:
+*Circles with the minimum score of 8265 (up to permutations):
+[0, 1, 4, 8, 2, 5, 9, 6]
+*Circles with the maximum score of 23209 (up to permutations):
+[1, 8, 2, 3, 4, 6, 7, 9]
+
+Done! It took 976 seconds.
