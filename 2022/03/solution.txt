@@ -1,0 +1,3 @@
+Case n = 5: p = 17923, E[p] = 1016453/8363
+
+Done! It took 185 seconds.

@@ -6,4 +6,5 @@ Below are my solutions to the monthly [Ponder This puzzles](https://research.ibm
 | :---: | :---:  | :---:             | :---:       |
 | Jan 2022 | [Forming primes in digit circles](https://research.ibm.com/haifa/ponderthis/challenges/January2022.html) | [Link](https://research.ibm.com/haifa/ponderthis/solutions/January2022.html) | [Python code](./2022/01) |
 | Feb 2022 | [Representation of numbers using powers of 2 and 3](https://research.ibm.com/haifa/ponderthis/challenges/February2022.html) | [Link](https://research.ibm.com/haifa/ponderthis/solutions/February2022.html) | [Python code](./2022/02) |
+| Mar 2022 | [Primle](https://research.ibm.com/haifa/ponderthis/challenges/March2022.html) | [Link](https://research.ibm.com/haifa/ponderthis/solutions/March2022.html) | [Python code](./2022/03) |
 
